@@ -1,0 +1,3 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+18.216.55.100,80,FALSE,ORD,US,North America,Chicago,16509,AMAZON-02,596,4.75
+3.23.238.192,80,FALSE,ORD,US,North America,Chicago,16509,AMAZON-02,608,3.75

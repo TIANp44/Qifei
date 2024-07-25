@@ -1,0 +1,13 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+52.29.224.33,80,FALSE,FRA,DE,Europe,Frankfurt,16509,AMAZON-02,672,6.25
+116.203.58.165,80,FALSE,FRA,DE,Europe,Frankfurt,24940,Hetzner Online GmbH,820,1.99
+49.12.210.182,80,FALSE,FRA,DE,Europe,Frankfurt,24940,Hetzner Online GmbH,799,1.94
+88.99.226.153,80,FALSE,FRA,DE,Europe,Frankfurt,24940,Hetzner Online GmbH,730,1.72
+128.140.42.219,80,FALSE,FRA,DE,Europe,Frankfurt,24940,Hetzner Online GmbH,753,1.21
+85.10.229.74,80,FALSE,FRA,DE,Europe,Frankfurt,24940,Hetzner Online GmbH,746,1.02
+91.107.136.247,8080,FALSE,FRA,DE,Europe,Frankfurt,24940,Hetzner Online GmbH,773,0.73
+38.180.15.138,80,FALSE,FRA,DE,Europe,Frankfurt,51852,Private Layer INC,766,0.60
+43.131.49.250,80,FALSE,FRA,DE,Europe,Frankfurt,132203,"Tencent Building, Kejizhongyi Avenue",722,0.54
+91.107.128.100,80,FALSE,FRA,DE,Europe,Frankfurt,24940,Hetzner Online GmbH,727,0.45
+130.162.61.18,80,FALSE,FRA,DE,Europe,Frankfurt,31898,ORACLE-BMC-31898,730,0.20
+116.203.28.43,80,FALSE,FRA,DE,Europe,Frankfurt,24940,Hetzner Online GmbH,723,0.01
